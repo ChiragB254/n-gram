@@ -10,6 +10,8 @@ An N-gram is a sequence of 'n' words. For example:
 - **Bigram**: "hello world" (n=2)
 - **Trigram**: "hello world python" (n=3)
 
+![N-Gram](N-gram.png)
+
 In this project, we emphasize unigrams as the simplest form of N-gram language models.
 
 ## What is a Unigram?
